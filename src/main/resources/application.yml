@@ -1,0 +1,4 @@
+server:
+  port: 2282
+spring:
+  data.mongodb.uri: mongodb+srv://abobich:AzCxny1hDAEDx21c@clusterr.uivq9.mongodb.net/durak?retryWrites=true&w=majority
